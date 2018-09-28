@@ -4,7 +4,7 @@ In this repo, I'll be building a simple text editor guided by [this tutorial](ht
 
 * run `make` to compile the program
 * run `./kilo` in your terminal
-* press `q` to exit the program
+* press `ctrl + q` to exit the program
 
 ## Why raw mode
 
