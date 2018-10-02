@@ -234,7 +234,7 @@ int main() {
 
   while (1) { 
     editorRefreshScreen();
-    editorProcessKeypress(); 
+    editorProcessKeypress();
   }
 
   return 0;

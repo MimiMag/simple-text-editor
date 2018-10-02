@@ -16,5 +16,5 @@ By default, your terminal starts in *canonical mode*, which means keyboard is on
 `%d` tells `printf()` to format the byte as a decimal number (its ASCII code), and `%c` tells it to write out the byte directly, as a character.
 
 
-# [Pick up at: Move the cursor](https://viewsourcecode.org/snaptoken/kilo/03.rawInputAndOutput.html)
+# [Pick up at: Prevent moving the cursor off screen](https://viewsourcecode.org/snaptoken/kilo/03.rawInputAndOutput.html)
 
